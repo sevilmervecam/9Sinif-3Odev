@@ -41,21 +41,16 @@ Yukarıdaki örneği kullanarak **kendi ölçümlerinizle** bir tablo oluşturun
  46|0,65|0,066
  49|0,7|0,067
  
-
-
-
-
-
-
-
-
-Kullandığınız Google Sheet için [buraya](https://docs.google.com/spreadsheets/d/17_HBksYzqLMCQy119znu_7HuS0p2pL9hJrcw_DKp06I/edit#gid=0) link verin (Google Sheet herkese açık erişimli olsun.) 
+ Kullandığınız Google Sheet için [buraya](https://docs.google.com/spreadsheets/d/17_HBksYzqLMCQy119znu_7HuS0p2pL9hJrcw_DKp06I/edit#gid=0) link verin (Google Sheet herkese açık erişimli olsun.) 
 
 a) Denkleminizi **buraya yazınız**. Sizce a, b, ve c'nin fiziksel anlamları ne olabilir? (Yardım: bir tanesi ivme ile ilgili, bir tanesi ilk hız ile, diğeri konum ile ilgili).  Sizce niçin a'nın değeri negatif? 
+Denklem= 1,87E-0,4 + 0,183x + -0,125x^2. a= ivmeyle ilgili olan b=konum ile ilgili olan(?) c=ilk hızla ilgili olan(?) 
+a'nın değeri negatiftir çünkü ivmenin zaman geçtikçe düşmesi olabilir.
 
-b) Hava sürtünmesini ihmal edersek, bu harakette ivme sabit midir? 
+b) Hava sürtünmesini ihmal edersek, bu harakette ivme sabit midir?
+Havayı değil de belki direk sürtünmeyi ihmal etseydik olabilirdi çünkü cisme etki eden tek sürtünme çeşidi hava sürtünmesi değil.
 
-c) Video'daki cismin atılış hızı farklı olsaydı (diğer herşey aynı, kütle, yüzey, vb. Hava sürtünmesini ihmal edin), sizce formülde hangi terimler değişecekti? (a, b veya c) 
+c) Video'daki cismin atılış hızı farklı olsaydı (diğer herşey aynı, kütle, yüzey, vb. Hava sürtünmesini ihmal edin), sizce formülde hangi terimler değişecekti? (a, b veya c) Bu soru hakkında pek bir fikrim yok ama b ve c belki?
 
 # Bölüm 2 (İvmeli Hareketin Ortalama Hız-Zaman Grafiği)
 Bu sefer aynı cismin zaman-hız (ortalama hız) grafiğini çizeceksiniz. Bunun için *1.Bölümde* aldığımız sonuçları kullanacağız. Ortalama hızı bulmak için derste öğrendiğimiz ortalama hız formülünü (Delta x/ Delta t) kullanacağız. Google Sheet kullanarak hız-zaman grafiği nasıl çizildiğini anlamak için  [bu videoya](https://www.youtube.com/watch?v=67IsHRmcmfE&t) bakınız. Ortalama hız-zaman grafiğini çizilirken, ortalama hıza karşılık gelen zamanı nasıl belirleyeceksin? Bir andaki  ortalama hızı hesaplarken o noktadan önceki ve o noktadan sonraki (t,x) noktalarını kullanacaksın. Bu yüzden konum grafiğimde 11 veri noktam varken, hız-zaman grafiğinde veri noktam 9'a düştü. (İlk baştaki ve son baştaki noktalar için ortalama hızı hesaplayamam çünkü başlangıç noktasından önce ve bitiş noktasından sonraki (t,x) bilgilerine sahip değilim.)

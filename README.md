@@ -44,7 +44,7 @@ Yukarıdaki örneği kullanarak **kendi ölçümlerinizle** bir tablo oluşturun
  Kullandığınız Google Sheet için [buraya](https://docs.google.com/spreadsheets/d/17_HBksYzqLMCQy119znu_7HuS0p2pL9hJrcw_DKp06I/edit#gid=0) link verin (Google Sheet herkese açık erişimli olsun.) 
 
 a) Denkleminizi **buraya yazınız**. Sizce a, b, ve c'nin fiziksel anlamları ne olabilir? (Yardım: bir tanesi ivme ile ilgili, bir tanesi ilk hız ile, diğeri konum ile ilgili).  Sizce niçin a'nın değeri negatif? 
-Denklem= 1,87E-0,4 + 0,183x + -0,125x^2. a= ivmeyle ilgili olan b=konum ile ilgili olan(?) c=ilk hızla ilgili olan(?) 
+Denklem= 1,87E-0,3 + 1,83x + -1,25x^2. a= ivmeyle ilgili olan b=konum ile ilgili olan(?) c=ilk hızla ilgili olan(?) 
 a'nın değeri negatiftir çünkü ivmenin zaman geçtikçe düşmesi olabilir.
 
 b) Hava sürtünmesini ihmal edersek, bu harakette ivme sabit midir?

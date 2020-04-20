@@ -36,7 +36,10 @@ Bulduğum ikinci dereceden denklem (x= konum, t=zaman, *x= at^2+b*t + c*) şu ş
 Yukarıdaki örneği kullanarak **kendi ölçümlerinizle** bir tablo oluşturun (Aşağıda yeni bir tablo oluşturun ve yukarıdaki tabloya 3-4 tane kendi ölçümünü ekleyiniz.) 
  FRAME|ZAMAN(s)|KONUM(m)
  -----|--------|-------
- 9|0,15|0,025
+ 16|0,15|0,025
+ 28|0,35|0,049
+ 46|0,65|0,066
+ 49|0,7|0,067
  
 
 
